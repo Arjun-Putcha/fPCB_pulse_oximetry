@@ -1,2 +1,2 @@
-# Python-GUI-fPCB
-Python code for plotting data from flexible PCB Pulse Oximeter communicating via UART protocol
+# Flexible PCB Pulse Oximeter
+C code for communication between peripheral (fPCB) and central (nrf board) devices; Python code for GUI to display data, obtained via UART communication
